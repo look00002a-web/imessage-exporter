@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# 导出产物 / 预览
+.preview/
+imessage-export/
+*.html
+*.csv
+# 但保留仓库里可能存在的示例目录说明
+!docs/
+
+# macOS
+.DS_Store
+
+# 搬家时一起被带过来的微信工具旧文件(与本项目无关)
+微信工具旧文件/
