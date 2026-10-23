@@ -12,6 +12,3 @@ imessage-export/
 
 # macOS
 .DS_Store
-
-# 搬家时一起被带过来的微信工具旧文件(与本项目无关)
-微信工具旧文件/
